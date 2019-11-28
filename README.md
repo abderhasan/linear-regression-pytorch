@@ -4,4 +4,4 @@ This code shows you how to find linear regression using PyTorch. You can kindly 
 
 [A Smooth Introduction to Linear Regression and its Implementation in PyTorch (Part-I)](https://abder.io/a-smooth-introduction-to-linear-regression-and-its-implementation-in-pytorch-part-i/)
 
-[A Smooth Introduction to Linear Regression and its Implementation in PyTorch (Part-I)](https://abder.io/a-smooth-introduction-to-linear-regression-and-its-implementation-in-pytorch-part-ii/)
+[A Smooth Introduction to Linear Regression and its Implementation in PyTorch (Part-II)](https://abder.io/a-smooth-introduction-to-linear-regression-and-its-implementation-in-pytorch-part-ii/)
