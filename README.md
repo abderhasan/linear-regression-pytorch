@@ -1,5 +1,4 @@
-# linear-regression-pytorch
-How to find linear regression using PyTorch
+# How to find linear regression using PyTorch
 
 This code shows you how to find linear regression using PyTorch. You can kindly find the posts related to this code at the following links:
 
